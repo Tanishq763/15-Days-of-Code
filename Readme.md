@@ -9,8 +9,7 @@
 ## Day - 2
 
 1.Leetcode [link](https://leetcode.com/problems/count-primes/submissions/1800688127)</br>
-2.Striver A to Z Q.[link](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) </br>
-[View the text file](atz1.txt)
+2.Striver A to Z Q.[link](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) Code->[View the text file](atz1.txt)</br>
 
 
 
