@@ -1,18 +1,7 @@
 # 👋 Welcome to Vision CSE  
 
-This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
+## Day - 1 
 
-## 📌 About the Challenge
-- Duration: **15 Days**
-- Goal: Code every day and build consistency  
-- Task: Fork this repository, and update your progress here!  
+1.Leetcode POTD [link](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/1800321550)
+2.CF Q-> [link](https://codeforces.com/contest/2160/problem/C) Code-> [link](https://codeforces.com/contest/2160/submission/343544320)
 
-## ✅ How to Participate
-1. **Fork** this repository.  
-2. **Edit this README** file in your fork.  
-3. Document your progress daily:  
-   - Add a short note on what you did  
-   - Attach screenshots or  
-   - Add links to your code submissions/projects  
-
-4. Keep pushing your changes every day!  
