@@ -1,0 +1,16 @@
+class Solution {
+  public:
+    long subarrayXor(vector<int> &nums, int k) {
+       long i,n = nums.size(),x = 0,ans = 0;
+map<long,long>mp;
+mp[0]++;
+for(i = 0;i<n;i++){
+x = x^nums[i];
+ans = ans + mp[k^x];
+mp[x]++;
+} 
+
+return ans;
+        
+    }
+};
