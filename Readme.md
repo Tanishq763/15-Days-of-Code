@@ -10,7 +10,8 @@
 
 1.Leetcode [link](https://leetcode.com/problems/count-primes/submissions/1800688127)</br>
 2.Striver A to Z Q.[link](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) Code->[View the text file](atz1.txt)</br>
-
+3.Leetcode POTD [link](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/submissions/1801170094)</br>
+4.LeetCode (Part 2 of prev que)[link](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/submissions/1801172077)</br>
 
 
 
