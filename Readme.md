@@ -13,6 +13,9 @@
 3.Leetcode POTD [link](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/submissions/1801170094)</br>
 4.LeetCode (Part 2 of prev que)[link](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/submissions/1801172077)</br>
 
+## Day - 3
+
+1.CP-31 1500 rated Q.12 [linl](https://codeforces.com/contest/1466/submission/343827216)</br>
 
 
 
