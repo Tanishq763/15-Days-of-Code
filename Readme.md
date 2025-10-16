@@ -18,6 +18,10 @@
 1.CP-31 1500 rated Q.12 [linl](https://codeforces.com/contest/1466/submission/343827216)</br>
 2.CodeChef contest Div2 solved 3 questions</br>
 
+## Day - 4
+1.LeetCode POTD [link](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/submissions/1803074206)</br>
+
+
 
 
 
