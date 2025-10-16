@@ -19,7 +19,9 @@
 2.CodeChef contest Div2 solved 3 questions</br>
 
 ## Day - 4
+
 1.LeetCode POTD [link](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/submissions/1803074206)</br>
+2.LeetCode [link](https://leetcode.com/problems/koko-eating-bananas/submissions/1803095633)</br>
 
 
 
