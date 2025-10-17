@@ -23,6 +23,10 @@
 1.LeetCode POTD [link](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/submissions/1803074206)</br>
 2.LeetCode [link](https://leetcode.com/problems/koko-eating-bananas/submissions/1803095633)</br>
 
+## Day - 5
+
+1.LeetCode [link](https://leetcode.com/problems/max-area-of-island/submissions/1804197349)</br>
+2.LeetCode [link](https://leetcode.com/problems/keys-and-rooms/submissions/1804178090)</br>
 
 
 
