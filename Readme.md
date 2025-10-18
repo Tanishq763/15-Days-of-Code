@@ -27,7 +27,9 @@
 
 1.LeetCode [link](https://leetcode.com/problems/max-area-of-island/submissions/1804197349)</br>
 2.LeetCode [link](https://leetcode.com/problems/keys-and-rooms/submissions/1804178090)</br>
+3.CF [link](https://codeforces.com/contest/2162/submission/344384173)</br>
 
+## Day - 6
 
 
 
