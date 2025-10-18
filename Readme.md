@@ -32,5 +32,8 @@
 ## Day - 6
 
 1.LeetCode POTD [link](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/submissions/1804766688)</br>
+2.CF 1700 rated Segment tree [link](https://codeforces.com/contest/339/submission/344482487)</br>
+3.CF 1059 (Div 3) Q.E [link](https://codeforces.com/contest/2162/problem/E)</br>
+
 
 
