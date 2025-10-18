@@ -31,5 +31,6 @@
 
 ## Day - 6
 
+1.LeetCode POTD [link](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/submissions/1804766688)</br>
 
 
