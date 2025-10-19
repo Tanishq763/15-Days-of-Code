@@ -35,5 +35,10 @@
 2.CF 1700 rated Segment tree [link](https://codeforces.com/contest/339/submission/344482487)</br>
 3.CF 1059 (Div 3) Q.E [link](https://codeforces.com/contest/2162/problem/E)</br>
 
+## Day - 7
+
+1.LeetCode POTD [link](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/submissions/1805700001)</br>
+2.LeetCode [link](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/submissions/1805728722)</br>
+
 
 
