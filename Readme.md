@@ -39,6 +39,10 @@
 
 1.LeetCode POTD [link](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/submissions/1805700001)</br>
 2.LeetCode [link](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/submissions/1805728722)</br>
+3.Gave Codeforces Round 1060 (Div. 2) contest Solved only 2 problems </br>
+
+## Day - 8
+
 
 
 
