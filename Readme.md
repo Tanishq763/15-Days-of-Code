@@ -45,5 +45,7 @@
 
 1.Upsolved Problem C1 of Codeforces Round 1060 (Div. 2) [link](https://codeforces.com/contest/2154/submission/344769921)</br>
 2.LeetCode DSU Que [link](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1806224602)</br>
+3.LeetCode POTD [link](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/1806549979)</br>
+4.LeetCode [link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1806601475)</br>
 
 
