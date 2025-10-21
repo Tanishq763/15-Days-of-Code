@@ -55,6 +55,7 @@
 
 ## Day - 10
 
+1.CP 31 1500 rated Q.23 [link](https://codeforces.com/contest/1106/submission/345090131)</br>
 
 
 
