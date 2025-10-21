@@ -48,4 +48,13 @@
 3.LeetCode POTD [link](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/1806549979)</br>
 4.LeetCode [link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1806601475)</br>
 
+## Day - 9
+
+1.LeetCode vertical order Traversal of BST [link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1807850371)</br>
+2.LeetCode SameTree [link](https://leetcode.com/problems/same-tree/submissions/1807877084)</br>
+
+## Day - 10
+
+
+
 
