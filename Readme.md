@@ -59,6 +59,6 @@
 2.CP 31 1500 rated Q.25 [link](https://codeforces.com/contest/1084/submission/345146160)</br>
 3.CP 31 1500 rated Q.27 [link](https://codeforces.com/contest/976/submission/345156225)</br>
 4.Gave Codechef starters 209 DIV 2 made 4 questions
-
+5.LeetCode [link](https://leetcode.com/problems/hand-of-straights/submissions/1808751434)</br>
 
 
