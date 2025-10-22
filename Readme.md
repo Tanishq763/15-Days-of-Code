@@ -57,6 +57,7 @@
 
 1.CP 31 1500 rated Q.23 [link](https://codeforces.com/contest/1106/submission/345090131)</br>
 2.CP 31 1500 rated Q.25 [link](https://codeforces.com/contest/1084/submission/345146160)</br>
+3.CP 31 1500 rated Q.27 [link](https://codeforces.com/contest/976/submission/345156225)</br>
 
 
 
