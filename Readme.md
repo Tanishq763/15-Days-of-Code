@@ -64,7 +64,7 @@
 # Day - 11
 
 1.LeetCode POTD [link](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/submissions/1809218717)</br>
-2.Learned LUCAS Theorem for Calculating nCr mod M in very less time if M is small  and also Learned if M is not prime then how to find its modulo</br>
+2.Learned LUCAS Theorem for Calculating nCr mod M in very less time if M is small  and also Learned if M is not prime then how to find it</br>
 3.LeetCode Follow up of above que [link](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/submissions/1809258797)</br>
 4.LeetCode [link](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/submissions/1809268738)</br>
 
