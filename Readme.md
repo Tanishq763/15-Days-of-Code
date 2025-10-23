@@ -61,4 +61,10 @@
 4.Gave Codechef starters 209 DIV 2 made 4 questions</br>
 5.LeetCode [link](https://leetcode.com/problems/hand-of-straights/submissions/1808751434)</br>
 
+# Day - 11
+
+1.LeetCode POTD [link](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/submissions/1809218717)</br>
+2.LeetCode Follow up of above que [link](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/submissions/1809258797)</br>
+3.LeetCode [link](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/submissions/1809268738)</br>
+
 
