@@ -70,4 +70,9 @@
 5.LeetCode [link](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/1809496599)</br>
 6.LeetCode [link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/1809526737)</br>
 
+# Day - 12
+
+1.LeetCode POTD [link](https://leetcode.com/problems/next-greater-numerically-balanced-number/submissions/1810116497)</br>
+2.CF upsolved que of one of the previous contest [link](https://codeforces.com/contest/2146/submission/345488358)</br>
+
 
