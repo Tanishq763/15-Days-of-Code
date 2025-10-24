@@ -74,5 +74,6 @@
 
 1.LeetCode POTD [link](https://leetcode.com/problems/next-greater-numerically-balanced-number/submissions/1810116497)</br>
 2.CF upsolved que of one of the previous contest [link](https://codeforces.com/contest/2146/submission/345488358)</br>
-
+3.gave CF contest Round 1061 (Div 2) solved only A,B </br>
+4.upsolved C of todays Contest [link](https://codeforces.com/contest/2156/submission/345630004)</br>
 
