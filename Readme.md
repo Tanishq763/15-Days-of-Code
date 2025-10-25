@@ -61,7 +61,7 @@
 4.Gave Codechef starters 209 DIV 2 made 4 questions</br>
 5.LeetCode [link](https://leetcode.com/problems/hand-of-straights/submissions/1808751434)</br>
 
-# Day - 11
+## Day - 11
 
 1.LeetCode POTD [link](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/submissions/1809218717)</br>
 2.Learned LUCAS Theorem for Calculating nCr mod M in very less time if M is small  and also Learned if M is not prime then how to find it</br>
@@ -70,10 +70,14 @@
 5.LeetCode [link](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/1809496599)</br>
 6.LeetCode [link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/1809526737)</br>
 
-# Day - 12
+## Day - 12
 
 1.LeetCode POTD [link](https://leetcode.com/problems/next-greater-numerically-balanced-number/submissions/1810116497)</br>
 2.CF upsolved que of one of the previous contest [link](https://codeforces.com/contest/2146/submission/345488358)</br>
 3.gave CF contest Round 1061 (Div 2) solved only A,B </br>
 4.upsolved C of todays Contest [link](https://codeforces.com/contest/2156/submission/345630004)</br>
 
+## Day - 13
+
+1.LeetCode POTD [link](https://leetcode.com/problems/calculate-money-in-leetcode-bank/submissions/1810980140)</br>
+2.
