@@ -81,4 +81,5 @@
 
 1.LeetCode POTD [link](https://leetcode.com/problems/calculate-money-in-leetcode-bank/submissions/1810980140)</br>
 2.CP 31 1500 rated Q.26 [link](https://codeforces.com/contest/982/submission/345709864)</br>
+3.Upsolved Yesterdays Contest Q.F1 [link](https://codeforces.com/contest/2156/submission/345732430)</br>
 
