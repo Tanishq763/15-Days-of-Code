@@ -82,7 +82,12 @@
 1.LeetCode POTD [link](https://leetcode.com/problems/calculate-money-in-leetcode-bank/submissions/1810980140)</br>
 2.CP 31 1500 rated Q.26 [link](https://codeforces.com/contest/982/submission/345709864)</br>
 3.Upsolved Yesterdays Contest Q.F1 [link](https://codeforces.com/contest/2156/submission/345732430)</br>
-4.Gave LeetCode biweekly Solved 3 que during contest </br>
+4.Gave LeetCode biweekly 168 Solved 3 que during contest </br>
 5.upsolved Biweekly's D problem [link](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/submissions/1811440219) </br>
+
+## Day - 14
+
+1.LeetCode POTD [link](https://leetcode.com/problems/simple-bank-system/submissions/1811928944)</br>
+2.Upsplved LeetCode Weekly 473 and solved 3 que</br>
 
 
