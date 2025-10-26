@@ -90,5 +90,6 @@
 1.LeetCode POTD [link](https://leetcode.com/problems/simple-bank-system/submissions/1811928944)</br>
 2.Upsplved LeetCode Weekly 473 and solved 3 que</br>
 3.Gave CodeKnight contest And solved 2 que</br>
+4.CP 31 1500 rated Q.18 [link](https://codeforces.com/contest/1325/submission/345922315)</br>
 
 
