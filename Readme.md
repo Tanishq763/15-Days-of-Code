@@ -96,5 +96,6 @@
 
 1.CF que [link](https://codeforces.com/contest/1143/submission/345934120)</br>
 2.CF que [link](https://codeforces.com/contest/1498/submission/345936537)</br>
+3.LeetCode POTD [link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1812871140)</br>
 
 
